@@ -40,7 +40,7 @@ Built entirely with open-source and privacy-focused tools:
 
 2. **Clone the Repository**
    ```bash
-   git clone [https://github.com/Xenaquas/Financial-RAG.git](https://github.com/Xenaquas/Financial-RAG.git)
+   git clone https://github.com/Xenaquas/Financial-RAG-Economic-Report-Analyzer.git
    cd Financial-RAG
    ```
 3. **Install Dependencies**
